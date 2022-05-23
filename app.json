@@ -1,0 +1,16 @@
+{
+  "name": "Nexdv",
+  "description": "Depl vles on Herku.",
+  "keywords": [
+    "vles"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "2631e706-46f4-4d93-ac8b-39e22f6c92a9"
+    }
+  },
+  "website": "https://github.com/qm6yu77aro/",
+  "repository": "https://github.com/qm6yu77aro/Nexdv",
+  "stack": "container"
+}
